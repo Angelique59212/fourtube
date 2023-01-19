@@ -1,0 +1,21 @@
+{
+    "require": {
+        "symfony/error-handler": "^6.2"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    },
+
+    "name": "angelika/fourtube",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "angelika",
+            "email": "dehainaut.angelique@orange.fr"
+        }
+    ]
+}
